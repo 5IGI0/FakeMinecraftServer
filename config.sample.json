@@ -1,0 +1,7 @@
+{
+    "port": 25565,
+    "player_slot": 80000,
+    "rush_hour": 60000,
+    "min_player": 25000,
+    "random": 10000
+}

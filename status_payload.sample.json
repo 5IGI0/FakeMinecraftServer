@@ -1,0 +1,9 @@
+{
+    "description": "A Minecraft server",
+    "players": {
+        "sample": []
+    },
+    "version": {
+        "name": "Spigot 1.9.4"
+    }
+}
