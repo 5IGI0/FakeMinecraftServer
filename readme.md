@@ -9,7 +9,7 @@ The purpose of this script is to create a fake Minecraft server.
 ### config.json
 
 key         | description                                 | example
--           | -                                           | -
+------------|---------------------------------------------|------
 port        | the binding port                            | 25565
 player_slot | number of player slots                      | 90000
 rush_hour   | number of players in rush hour              | 60000
